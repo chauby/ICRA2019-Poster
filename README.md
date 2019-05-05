@@ -2,11 +2,11 @@
 This is the poster of ICRA2019, Montreal, Canada. Anyone can be free to download the poster, and we welcome everyone to contact us for more communications.
 
 ---
-![Image text](https://github.com/chauby/ICRA2019-Poster/blob/master/chauby.jpg =183x257)
+![image](https://github.com/chauby/ICRA2019-Poster/blob/master/chauby.jpg)
 
 *Chaobin Zou* is a Ph.D. student from the Center for Robotics, School of Automation and Engineering, University of Electronic Science and Technology of China (UESTC). He received a B.E. in 2014 from UESTC, and his research interests are mainly learning from demonstration, and machine learning applications in robotics.
 
-![Image text](https://github.com/chauby/ICRA2019-Poster/blob/master/HCheng.jpg =183x257)
+![image](https://github.com/chauby/ICRA2019-Poster/blob/master/HCheng.jpg)
 
 *Hong Cheng*  is a full Professor in School of Automation, a vice director of Center for Robotics, UESTC. He received Ph.D degree in Pattern Recognition and Intelligent Systems from Xi'an Jiaotong University in 2003. Now he is the founding director of Pattern Recognition and Machine Intelligence Lab, UESTC. Before this, He was a postdoctoral at Computer Science School, Carnegie Mellon University, USA from 2006 to 2009. He was an associate Professor of Xi'an Jiaotong University since 2005. Since July 2000, he had been with Xi'an Jiaotong University, where he had been a team leader of Intelligent Vehicle Group at the Institute of Artificial Intelligence and Robotics before going to USA.
 
