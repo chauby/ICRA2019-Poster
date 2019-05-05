@@ -7,5 +7,7 @@ For more details, you can contact me with the following links:
 + Email: chaubyZou@163.com
 + The homepage of Research Gate: https://www.researchgate.net/profile/Chaobin_Zou3
 + The homepage of Github: https://github.com/chauby
+
+And for more details about UESTC and MII, you can visit the following websites:
 + The homepage of UESTC: https://en.uestc.edu.cn
 + The homepage of MII: http://www.uestcrobot.net
